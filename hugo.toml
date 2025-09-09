@@ -1,0 +1,19 @@
+baseURL = "https://johni12.github.io/snow_project/"
+title = "Snow Project"
+defaultContentLanguage = "de"
+languageCode = "de"
+
+[module]
+  [[module.imports]]
+    path = "github.com/gethinode/hinode"
+  [[module.imports]]
+    path = "github.com/gethinode/mod-flexsearch/v3"
+
+[languages]
+  [languages.de]
+    languageName = "Deutsch"
+    weight = 1
+    contentDir = "content/de"
+
+
+

@@ -23,35 +23,44 @@ defaults:
 jobs:
   build:
     runs-on: ubuntu-latest
-    env:
-      HUGO_VERSION: 0.158.0  # Updated to a version compatible with Hinode
     steps:
-      - name: Install Hugo CLI
-        run: |
-          wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
-          && sudo dpkg -i ${{ runner.temp }}/hugo.deb
-      - name: Install Dart Sass
-        run: sudo snap install dart-sass
+      # Checkout repository
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           submodules: recursive
           fetch-depth: 0
+
+      # Setup Pages
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
+
+      # Install Hugo Extended (latest version)
+      - name: Install Hugo Extended
+        run: |
+          curl -sS https://webi.sh/hugo-extended | sh
+          sudo mv ~/.local/bin/hugo /usr/local/bin/hugo
+          hugo version
+
+      # Install Dart Sass (for SCSS processing)
+      - name: Install Dart Sass
+        run: sudo snap install dart-sass
+
+      # Install Node.js dependencies (optional)
       - name: Install Node.js dependencies
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
+
+      # Build Hugo site
       - name: Build Hugo site
         env:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
           HUGO_ENVIRONMENT: production
           TZ: Europe/Vienna
         run: |
-          hugo \
-            --gc \
-            --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"
+          hugo --gc --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
+
+      # Upload build artifact for Pages
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

@@ -15,5 +15,5 @@ languageCode = "de"
     weight = 1
     contentDir = "content/de"
 
-
-
+[navigation]
+  logo = "/img/favicon.svg"

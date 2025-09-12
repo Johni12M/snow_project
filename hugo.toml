@@ -15,12 +15,6 @@ languageCode = "de"
     weight = 1
     contentDir = "content/de"
 
-[navigation]
-  anchor = true
-  logo = "/img/logo.svg"
-  logo-height = 30
-
-
 [params.favicon]
   logo = "img/logo.png"
   sizes = [16, 32, 96, 192]

@@ -19,3 +19,8 @@ languageCode = "de"
   logo = "img/logo.png"
   sizes = [16, 32, 96, 192]
 
+[params.navigation]
+    anchor = true
+    logo = "/img/logo_icon.png"
+    logo-height = 30
+

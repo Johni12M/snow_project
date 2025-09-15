@@ -21,7 +21,8 @@ languageCode = "de"
 
 [params.navigation]
     anchor = true
-    logo = "/img/logo_icon-dark.png"
+    logo = "/img/logo_icon-light.png"
+    logo-dark = "/img/logo_icon-dark.png"
     logo-height = 30
     logo_mode = true
 

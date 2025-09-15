@@ -3,7 +3,7 @@
 	"file": "main.css",
 	"sourceRoot": "/home/johni12/coding/hugo/snow_project",
 	"sources": [
-		"scss/bundle-1757946065700526331.scss",
+		"scss/bundle-1757946325121861594.scss",
 		"hugo:vars",
 		"../../../.cache/hugo_cache/modules/filecache/modules/pkg/mod/github.com/gethinode/hinode@v1.13.4/assets/scss/common/_variables.scss",
 		"../../../.cache/hugo_cache/modules/filecache/modules/pkg/mod/github.com/gethinode/hinode@v1.13.4/assets/scss/theme/_variables.scss",

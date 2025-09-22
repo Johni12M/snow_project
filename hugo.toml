@@ -21,7 +21,8 @@ languageCode = "de"
 
 [params.navigation]
   anchor = true
-  logo_mode = true
-# logo-dark = "/img/logo-dark.png"
-  logo_width = 50
+  logo = "/img/logo.png"
+  logo-mode = true
 
+[params.style]
+  customCSS = ["scss/custom.css"]

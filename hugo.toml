@@ -16,16 +16,14 @@ languageCode = "de"
     contentDir = "content/de"
 
 [params.favicon]
-  logo = "img/logo-dark.png"
-  sizes = [16, 32, 96, 192]
+  logo = "logo.png"
+#    sizes = [16, 32, 96, 192]
 
 [params.navigation]
   anchor = true
-  logo = "/img/logo.png"
+  logo = "/img/logo.svg"
+  logo-height = 50
   logo-mode = true
-
-[params.style]
-  customCSS = ["scss/custom.css"]
 
 [params.cards]
   summaryLength = 70   # <- hier legst du fest, wie viele Wörter im Card-Preview angezeigt werden

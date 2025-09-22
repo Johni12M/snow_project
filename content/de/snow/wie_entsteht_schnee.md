@@ -12,7 +12,7 @@ Schnee fällt auf den Boden. Es ist wieder Dezember und die Schneeflocken bedeck
 Das Wasser, das sich am Boden auf der Erde befindet, verdunstet von der Erdoberfläche und steigt in die Atmosphäre auf. Dort, in der Höhe, kondensiert der Wasserdampf und bildet Wolken. Die sogenannte Kondensation ist der Übergang eines Stoffes vom gasförmigen in den flüssigen Aggregatzustand.
 
 **Kristallisation**
-Der weitere Prozess startet erst bei bestimmten Temperaturen, die ungefähr -5 Grad betragen, beginnen. In den gebildeten Wolken befinden sich feine Tröpfchen von unterkühltem Wasser. Die Tröpfchen lagern sich an Kristallisationskeime, die zum Beispiel Staubteilchen, Pollen oder Salz sein können, und gefrieren. Die daraufhin entstandenen Eiskristalle haben einen kleineren Durchmesser als 0,1mm. Diese fallen durch eine immer weiter zunehmende Masse nach unten. Die Eiskristalle können weiter anwachsen, was durch den unterschiedlichen Dampfdruck von Eis und unterkühltem Wasser passiert.
+Der weitere Prozess startet erst bei bestimmten Temperaturen, die ungefähr -5 Grad betragen. In den gebildeten Wolken befinden sich feine Tröpfchen von unterkühltem Wasser. Die Tröpfchen lagern sich an Kristallisationskeime, die zum Beispiel Staubteilchen, Pollen oder Salz sein können, und gefrieren. Die daraufhin entstandenen Eiskristalle haben einen kleineren Durchmesser als 0,1mm. Diese fallen durch eine immer weiter zunehmende Masse nach unten. Die Eiskristalle können weiter anwachsen, was durch den unterschiedlichen Dampfdruck von Eis und unterkühltem Wasser passiert.
 
 **Bergeron-Findeisen-Prozess**
 Wenn der in der Luft enthaltene Wasserdampf resublimiert und in Eis übergeht, trägt dies zum Kristallwachstum bei. Dies nennt man den „Bergeron-Findeisen-Prozess.“

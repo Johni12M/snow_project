@@ -26,3 +26,7 @@ languageCode = "de"
 
 [params.style]
   customCSS = ["scss/custom.css"]
+
+[params.cards]
+  summaryLength = 70   # <- hier legst du fest, wie viele Wörter im Card-Preview angezeigt werden
+

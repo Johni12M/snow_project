@@ -1,0 +1,21 @@
+<!-- Datei: layouts/shortcodes/sources.html -->
+<div class="card border my-5">
+    <div class="card-header bg-info-subtle border-bottom py-3">
+        <h5 class="mb-0 text-body">
+            <i class="bi bi-bookmark-fill me-2"></i>Quellen
+        </h5>
+    </div>
+    <div class="card-body bg-body-secondary p-4">
+        <ol class="mb-0">
+            {{ $content := .Inner }}
+            {{ range findRE "https?://[^>\\s]+" $content }}
+                <li class="mb-3">
+                    <a href="{{ . }}" target="_blank" rel="noopener noreferrer" class="text-decoration-none">
+                        {{ . }}
+                        <i class="bi bi-box-arrow-up-right ms-1 small"></i>
+                    </a>
+                </li>
+            {{ end }}
+        </ol>
+    </div>
+</div>

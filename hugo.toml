@@ -28,3 +28,5 @@ languageCode = "de"
 [params.cards]
   summaryLength = 70   # <- hier legst du fest, wie viele Wörter im Card-Preview angezeigt werden
 
+[params.style]
+  primary = "#0d6efd"  

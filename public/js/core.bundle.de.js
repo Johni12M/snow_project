@@ -6591,12 +6591,12 @@ function initIndex() {
       
       {
         id: 0,
-        href: "/snow_project/snow/test2/",
-        title: "2. Testartikel",
-        description: "Dies ist ein 2. Testartikel.\n",
+        href: "/snow_project/snow/messungen_von_schnee/",
+        title: "Messungen von Schneehöhe und Schneefall",
+        description: "Erfahre, wie Schneehöhe und Schneefall gemessen werden – von manuellen Methoden wie Messlatten bis zu automatischen Sensoren und Satelliten. Entdecke die Technologien hinter der Schneemessung.",
         
         
-        content: "Dies ist ein 2. Testartikel."
+        content: "Übersicht \u0026nbsp; Manuelle Messung Instrumentelle / automatische Messung • Schneebrett (Neuschnee) • Ultraschall- / Lasersensor (Abstand) • Messlatte / Messstab • Schneekissen (Snow Pillow, Druck) • Messpfahl für Gesamtschnee • Virtuelle Pfähle / Bildauswertung • Schneekern / Proben (SWE) • Satellit / LiDAR / Radar (Altimetrie) • Automatisierte Bodensensorik (z. B. Stationen) Methoden \u0026amp; Details \u0026nbsp; 1. Grundlegende Begriffe \u0026nbsp; Neuschneehöhe: frisch gefallener Schnee in einem Zeitraum (z. B. 24 h) Gesamtschneehöhe: gesamte Schneedecke (inkl. Alt- und Neuschnee) Schneeäquivalent (SWE): Wassermenge, die aus Schmelzen entsteht 2. Manuelle Messmethoden \u0026nbsp; Schneebrett: Brett auf Boden, täglich gemessen, danach geleert Messlatte / Stab: Mehrfachmessung und Mittelwertbildung Messpfahl: feste Skala, tägliche Ablesung Schneekern / Proben: Tiefe + Dichte → SWE 3. Automatische Verfahren \u0026nbsp; Ultraschall / Laser: Abstandsmessung zur Schneedecke Schneekissen (Snow Pillow): Druckmessung, liefert SWE Virtuelle Pfähle / Kameras: Bildanalyse Satellit / LiDAR / Radar: großflächige Messung 4. Kombination \u0026nbsp; Automatische Sensoren werden mit manuellen Messungen kalibriert Mehrere Messpunkte helfen, Windverwehungen auszugleichen 5. Beispiel Messstation \u0026nbsp; Neuschneehöhe morgens am Brett messen Gesamtschneehöhe am Pfahl ablesen Automatische Sensoren liefern kontinuierliche Werte In hydrologischen Netzen: Schneekissen zur SWE-Bestimmung Quellen https://www.weather.gov/jkl/snow_measurement) https://madis-data.ncep.noaa.gov/snow_measurements.html) https://www.cocorahs.org/content.aspx?page=measuresnow) https://www.meteoswiss.admin.ch/weather/weather-and-climate-from-a-to-z/snow-depth-measurement.html) https://www.metoffice.gov.uk/weather/guides/observations/snow-depth) https://en.wikipedia.org/wiki/Snow_pillow) https://wildlife.onlinelibrary.wiley.com/doi/10.1002/wsb.1481) https://www.nasa.gov/missions/icesat-2/nasa-scientist-discovers-new-means-to-measure-snow-depth-from-space) https://arxiv.org/abs/2410.17934)"
       })
       .add(
       
@@ -6605,20 +6605,6 @@ function initIndex() {
       
       {
         id: 1,
-        href: "/snow_project/snow/test/",
-        title: "Testartikel",
-        description: "Dies ist ein Testartikel.\n",
-        
-        
-        content: "Dies ist ein Testartikel."
-      })
-      .add(
-      
-      
-      
-      
-      {
-        id: 2,
         href: "/snow_project/snow/wie_entsteht_schnee/",
         title: "Wie ensteht Schnee?",
         description: "Erfahre, wie Schnee entsteht, von der Verdunstung bis zur Kristallisation. Entdecke die faszinierenden Prozesse hinter Schneeflocken und ihre verschiedenen Formen.",

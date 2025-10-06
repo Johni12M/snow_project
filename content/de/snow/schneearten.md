@@ -57,4 +57,5 @@ Triebschnee entsteht durch Windverfrachtungen und kann im freien Gelände ein Ri
 - [Was du über Kunstschnee wissen solltest - quarks.de](https://www.quarks.de/umwelt/was-du-ueber-kunstschnee-wissen-solltest/)
 - [Schnee -- Wikipedia](https://de.wikipedia.org/wiki/Schnee)
 - [So verschieden kann Schnee sein - MeteoSchweiz](https://www.meteoschweiz.admin.ch/ueber-uns/meteoschweiz-blog/de/2023/02/)
-  {{ </sources> }}
+
+{{ </sources> }}

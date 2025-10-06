@@ -49,7 +49,7 @@ Der Pappschnee ist ein schon etwas feuchter und schwerer Schnee, der allerdings 
 
 Triebschnee entsteht durch Windverfrachtungen und kann im freien Gelände ein Risiko sein. Er wird unregelmäßig verteilt und man findet ihn oft in Bereichen wie Rinnen und Mulden.
 
-{{< sources >}}
+{{<sources>}}
 
 - [Welche Schneearten gibt es | proplanta.de](https://www.proplanta.de/ratgeber/natur-umwelt/welche-schneearten-gibt-es_tipps1297325729.html)
 - [Diese 9 Schneearten gibt es - TRAVELBOOK](https://www.travelbook.de/outdoor/wintersport/schnee-arten)
@@ -58,4 +58,4 @@ Triebschnee entsteht durch Windverfrachtungen und kann im freien Gelände ein Ri
 - [Schnee -- Wikipedia](https://de.wikipedia.org/wiki/Schnee)
 - [So verschieden kann Schnee sein - MeteoSchweiz](https://www.meteoschweiz.admin.ch/ueber-uns/meteoschweiz-blog/de/2023/02/)
 
-{{ </sources> }}
+{{</sources>}}

@@ -6,8 +6,15 @@
     <description>Recent content in Snows on Snow Project</description>
     <generator>Hugo</generator>
     <language>de</language>
-    <lastBuildDate>Mon, 29 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Oct 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/snow_project/snow/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Verschiedene Schneearten</title>
+      <link>http://localhost:1313/snow_project/snow/schneearten/</link>
+      <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/snow_project/snow/schneearten/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Schneearten&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Es gibt verschiedene Arten von Schnee, der sich von z.B. Schneekorngröße, Schneedichte und Wasseranteil unterscheidet.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Nassschnee&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Nassschnee ist ein sehr nasser Schnee, der sich mit Wasser vermischt. Er ist oft für Skifahrer ein Grund, die Skisaison zu beenden.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Schneematsch (Faulschnee)&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Schneematsch ist eine Mischung aus Wasser und größeren Schneebrocken, die nicht mehr so gut zusammenhalten. Man kann diesen Schnee auch Schneematsch nennen.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Bruchharsch&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Dieser Schnee entsteht, wenn die Schneeoberfläche durch die Sonneneinstrahlung antaut. In der Nacht kühlt diese dann ab und verfestigt sich. Darauf entsteht eine Eiskruste, die den weicheren Schnee darunter versteckt. Bruchharsch ist oft sehr schwierig und unangenehm für das Skifahren.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Messungen von Schneehöhe und Schneefall</title>
       <link>http://localhost:1313/snow_project/snow/messungen_von_schnee/</link>

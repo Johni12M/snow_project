@@ -1,7 +1,7 @@
 ---
 title: "Verschiedene Schneearten"
 date: 2025-10-06
-description: "Entdecke die vielfältigen Schneearten von Pulverschnee bis Nassschnee. Erfahre, wie unterschiedliche Schneetypen entstehen und welche Eigenschaften sie für Wintersport und Natur haben."
+description: "Entdecke die vielfältigen Schneearten von Pulverschnee bis Nassschnee, wie unterschiedliche Schneetypen entstehen und welche Eigenschaften sie für Wintersport und Natur haben."
 thumbnail: "https://cdn.shopify.com/s/files/1/0163/6622/files/How_to_Photograph_Snowflakes_web.jpg?v=1670623619"
 ---
 

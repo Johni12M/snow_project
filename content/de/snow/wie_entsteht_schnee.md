@@ -1,7 +1,7 @@
 ---
 title: "Wie ensteht Schnee?"
 date: 2025-09-22
-description: "Erfahre, wie Schnee entsteht, von der Verdunstung bis zur Kristallisation. Entdecke die faszinierenden Prozesse hinter Schneeflocken und ihre verschiedenen Formen."
+description: "Erfahre, wie Schnee entsteht, und entdecke die faszinierenden Prozesse hinter Schneeflocken und ihre verschiedenen Formen."
 thumbnail: "https://imgs.search.brave.com/blcl8H8XGiLf-I5fWwQdjXHo156WK82AjfpihadzRo8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2UwL2Ex/LzMwL2UwYTEzMDQ1/MDE2ZjMyOTY0OTgz/NGQ2MmJmYmE1MzM1/LmpwZw"
 ---
 

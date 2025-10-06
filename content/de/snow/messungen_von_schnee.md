@@ -1,7 +1,7 @@
 ---
 title: "Messungen von Schneehöhe und Schneefall"
 date: 2025-09-29
-description: "Erfahre, wie Schneehöhe und Schneefall gemessen werden – von manuellen Methoden wie Messlatten bis zu automatischen Sensoren und Satelliten. Entdecke die Technologien hinter der Schneemessung."
+description: "Schneehöhe und Schneefall, von manuellen Methoden wie Messlatten bis zu automatischen Sensoren und Satelliten, all diese Begriffe werden dir hier erklärt."
 thumbnail: "https://imgs.search.brave.com/awcU5n8i25-i80GYzJoUxMlJb86XuM12zhpM_kzqyoA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bWV0ZW9zY2h3ZWl6/LmFkbWluLmNoL2lt/YWdlcy80NDAvYmxv/Zy8yMDI0LzAxLzE2/LjAxLjIwMjRfbWlz/dXJhLWRlbGxhLW5l/dmVfZ29uL1NCRWZl/YjIwMTQuSlBHL1NC/RWZlYjIwMTQuanBn"
 ---
 

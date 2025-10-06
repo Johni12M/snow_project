@@ -19,4 +19,3 @@ content_blocks:
     class: border-0 card-zoom card-body-margin
     justify: start
 ---
-

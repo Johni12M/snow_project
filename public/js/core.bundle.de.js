@@ -6591,6 +6591,20 @@ function initIndex() {
       
       {
         id: 0,
+        href: "/snow_project/secret/kolumbianischer_schnee/",
+        title: "Kolumbianischer Schnee",
+        description: "Wer es glaubt oder nicht: In Kolumbien gibt es tatsächlich Schnee!",
+        
+        
+        content: "Kolumbianischer Schnee\nWer an Kolumbien denkt, denkt an tropische Sonne, dichte Dschungel und pulsierende Städte. Doch tief in den Anden zeigt sich eine andere Seite des Landes – eine, die in hellem Weiß erstrahlt und Besucher aus aller Welt gleichermaßen anzieht: der kolumbianische Schnee.\nEr ist anders als der, den wir aus den Alpen kennen. Fein, beinahe seidig, schmilzt er nicht sofort auf der Haut, sondern hinterlässt einen eigenartigen Frischekick. Die, die ihn einmal erlebt haben, sprechen von einer „aufhellenden“ Wirkung – geistig wie emotional. Kein Wunder also, dass er längst zum Exportschlager geworden ist, wenn auch meist unter strengster Geheimhaltung.\nDoch dieser Schnee ist nicht für jedermann. Er verlangt Respekt. Wer ihn sucht, sollte wissen, dass er sich leicht in ihm verlieren kann – in seiner Klarheit, seiner Intensität, seiner verführerischen Reinheit.\nUnd doch, zwischen all den Mythen und Gerüchten, bleibt der kolumbianische Schnee ein Symbol: für Versuchung, für Sehnsucht, für das ewige Spiel zwischen Licht und Schatten. Er ist nicht einfach nur ein Naturphänomen – er ist ein Stück Kulturgeschichte.\nVielleicht ist das die wahre Lehre, die er uns hinterlässt: dass jede Form von Reinheit auch ihre Schattenseite trägt – und dass die Faszination des Verbotenen nie ganz aus der Welt verschwindet."
+      })
+      .add(
+      
+      
+      
+      
+      {
+        id: 1,
         href: "/snow_project/snow/messungen_von_schnee/",
         title: "Messungen von Schneehöhe und Schneefall",
         description: "Schneehöhe und Schneefall, von manuellen Methoden wie Messlatten bis zu automatischen Sensoren und Satelliten, all diese Begriffe werden dir hier erklärt.",
@@ -6604,7 +6618,7 @@ function initIndex() {
       
       
       {
-        id: 1,
+        id: 2,
         href: "/snow_project/snow/schneearten/",
         title: "Verschiedene Schneearten",
         description: "Entdecke die vielfältigen Schneearten von Pulverschnee bis Nassschnee, wie unterschiedliche Schneetypen entstehen und welche Eigenschaften sie für Wintersport und Natur haben.",
@@ -6618,7 +6632,7 @@ function initIndex() {
       
       
       {
-        id: 2,
+        id: 3,
         href: "/snow_project/snow/wie_entsteht_schnee/",
         title: "Wie ensteht Schnee?",
         description: "Erfahre, wie Schnee entsteht, und entdecke die faszinierenden Prozesse hinter Schneeflocken und ihre verschiedenen Formen.",

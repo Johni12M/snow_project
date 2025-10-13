@@ -5,7 +5,7 @@ description: "Schneehöhe und Schneefall, von manuellen Methoden wie Messlatten 
 thumbnail: "https://imgs.search.brave.com/awcU5n8i25-i80GYzJoUxMlJb86XuM12zhpM_kzqyoA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bWV0ZW9zY2h3ZWl6/LmFkbWluLmNoL2lt/YWdlcy80NDAvYmxv/Zy8yMDI0LzAxLzE2/LjAxLjIwMjRfbWlz/dXJhLWRlbGxhLW5l/dmVfZ29uL1NCRWZl/YjIwMTQuSlBHL1NC/RWZlYjIwMTQuanBn"
 ---
 
-## Übersicht
+### Übersicht
 
 | Manuelle Messung             | Instrumentelle / automatische Messung            |
 | ---------------------------- | ------------------------------------------------ |
@@ -15,45 +15,29 @@ thumbnail: "https://imgs.search.brave.com/awcU5n8i25-i80GYzJoUxMlJb86XuM12zhpM_k
 | • Schneekern / Proben (SWE)  | • Satellit / LiDAR / Radar (Altimetrie)          |
 |                              | • Automatisierte Bodensensorik (z. B. Stationen) |
 
-## Methoden & Details
+### Methoden & Details
 
-### 1. Grundlegende Begriffe
+In der Schneeforschung ist die Messung von Schneehöhe und Schneefall von zentraler Bedeutung. Dabei unterscheidet man zwischen der Neuschneehöhe, die den frisch gefallenen Schnee innerhalb eines bestimmten Zeitraums angibt, und der Gesamtschneehöhe, welche die gesamte Schneedecke inklusive Alt- und Neuschnee beschreibt. Ein weiterer wichtiger Begriff ist das Schneeäquivalent oder SWE, das die Wassermenge beschreibt, die beim vollständigen Schmelzen der Schneedecke entsteht.
 
-- **Neuschneehöhe**: frisch gefallener Schnee in einem Zeitraum (z. B. 24 h)
-- **Gesamtschneehöhe**: gesamte Schneedecke (inkl. Alt- und Neuschnee)
-- **Schneeäquivalent (SWE)**: Wassermenge, die aus Schmelzen entsteht
+**Manuelle Messmethoden**
 
-### 2. Manuelle Messmethoden
+Zur Erfassung dieser Größen kommen sowohl manuelle als auch automatische Messmethoden zum Einsatz. Die einfachsten manuellen Verfahren beinhalten Schneebretter, die auf den Boden gelegt werden und täglich nach dem Neuschnee abgelesen und wieder geleert werden. Messlatten oder Messstäbe ermöglichen Mehrfachmessungen an verschiedenen Stellen, deren Mittelwert die Schneehöhe angibt. Messpfähle mit festen Skalen werden zur täglichen Kontrolle der Gesamtschneehöhe genutzt, während Schneekerne oder Schneeproben durch die Messung von Tiefe und Dichte das SWE liefern.
 
-- **Schneebrett**: Brett auf Boden, täglich gemessen, danach geleert
-- **Messlatte / Stab**: Mehrfachmessung und Mittelwertbildung
-- **Messpfahl**: feste Skala, tägliche Ablesung
-- **Schneekern / Proben**: Tiefe + Dichte → SWE
+**Automatische Verfahren**
 
-### 3. Automatische Verfahren
+Automatische Verfahren erlauben eine kontinuierliche Überwachung, insbesondere in schwer zugänglichen Gebieten. Ultraschall- oder Lasersensoren messen den Abstand zur Schneedecke und bestimmen daraus die Höhe. Schneekissen, sogenannte Snow Pillows, erfassen den Druck unter der Schneedecke und liefern so das SWE. Virtuelle Pfähle oder Kameras nutzen Bildanalyseverfahren, um Schneehöhen aus Fotos zu bestimmen. Satelliten, LiDAR oder Radar ermöglichen großflächige Messungen und sind besonders für Gebirge oder Polarregionen geeignet.
 
-- **Ultraschall / Laser**: Abstandsmessung zur Schneedecke
-- **Schneekissen (Snow Pillow)**: Druckmessung, liefert SWE
-- **Virtuelle Pfähle / Kameras**: Bildanalyse
-- **Satellit / LiDAR / Radar**: großflächige Messung
+**Kombination von Methoden**
 
-### 4. Kombination
+Die besten Ergebnisse ergeben sich aus der Kombination von manuellen und automatischen Methoden. Automatische Sensoren werden regelmäßig mit manuellen Messungen kalibriert, um eine hohe Genauigkeit zu gewährleisten. Zusätzlich hilft die Nutzung mehrerer Messpunkte, lokale Unterschiede durch Windverwehungen oder Schattenlagen auszugleichen.
 
-- Automatische Sensoren werden mit manuellen Messungen kalibriert
-- Mehrere Messpunkte helfen, Windverwehungen auszugleichen
+**Beispiel einer Messstation**
 
-### 5. Beispiel Messstation
-
-1. Neuschneehöhe morgens am Brett messen
-2. Gesamtschneehöhe am Pfahl ablesen
-3. Automatische Sensoren liefern kontinuierliche Werte
-4. In hydrologischen Netzen: Schneekissen zur SWE-Bestimmung
-
----
+Ein typischer Messablauf an einer Schneestation beginnt mit der morgendlichen Messung der Neuschneehöhe auf dem Schneebrett. Anschließend wird die Gesamtschneehöhe am Messpfahl abgelesen. Die automatischen Sensoren liefern kontinuierliche Daten über den gesamten Tag. In hydrologischen Netzen werden zusätzlich Schneekissen verwendet, um das Schneeäquivalent zu bestimmen und damit wichtige Daten für Abfluss- und Hochwassermodelle zu liefern.
 
 {{<sources>}}
 
-## Quellen
+### Quellen
 
 - [weather.gov – Schneemessung](https://www.weather.gov/jkl/snow_measurement)
 - [madis-data.ncep.noaa.gov – Schneetiefen](https://madis-data.ncep.noaa.gov/snow_measurements.html)

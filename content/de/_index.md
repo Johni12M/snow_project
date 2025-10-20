@@ -15,7 +15,7 @@ content_blocks:
     more:
       title: Mehr Themen
     padding: 0
-    limit: 3
+    limit: 6
     class: border-0 card-zoom card-body-margin
     justify: start
 ---

@@ -1,25 +1,20 @@
 # .github/workflows/deploy.yml
 name: Deploy Hugo site to Pages
-
 on:
   push:
     branches:
       - main  # Change if your default branch is different
   workflow_dispatch:
-
 permissions:
   contents: read
   pages: write
   id-token: write
-
 concurrency:
   group: "pages"
   cancel-in-progress: false
-
 defaults:
   run:
     shell: bash
-
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -30,27 +25,30 @@ jobs:
         with:
           submodules: recursive
           fetch-depth: 0
-
       # Setup Pages
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
-
       # Install Hugo Extended (latest version)
       - name: Install Hugo Extended
         run: |
           curl -sS https://webi.sh/hugo-extended | sh
           sudo mv ~/.local/bin/hugo /usr/local/bin/hugo
           hugo version
-
       # Install Dart Sass (for SCSS processing)
       - name: Install Dart Sass
         run: sudo snap install dart-sass
-
       # Install Node.js dependencies (optional)
       - name: Install Node.js dependencies
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
-
+      # Clean and update Hugo modules
+      - name: Clean and update Hugo modules
+        env:
+          HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
+        run: |
+          hugo mod clean
+          hugo mod get -u
+          hugo mod tidy
       # Build Hugo site
       - name: Build Hugo site
         env:
@@ -59,13 +57,11 @@ jobs:
           TZ: Europe/Vienna
         run: |
           hugo --gc --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
-
       # Upload build artifact for Pages
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
-
   deploy:
     environment:
       name: github-pages

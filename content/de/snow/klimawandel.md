@@ -8,7 +8,9 @@ thumbnail: "https://imgs.search.brave.com/zZWYeNlD_tKoefTPyIdJ-cL8-8drTNaNby90D3
 ### Auswirkungen des Klimawandels auf Schnee
 
 Das Kima hat sich in den letzten Jahrzehnten deutlich erwärmt. Vor allem im Winter wirkt sich die Erwärmung stark aus. Seit den 1930er-Jahren ist die durchschnittlich Wintertemperatur um ungefähr 1 bis 2 C° gestiegen. Dies hat zu einer Abnahme der Schneehöhe und der Anzahl der Tage mit Schneedecke geführt. Auch die für den Schneesport geeignete Schneedecke geht langfristig vor allem in tieferen Lagen weiter zurück.
+
 Die Folgen der globalen Erwärmung sind vor allem in der Arktis, der polaren Eiskappe des Nordpols, stark. Denn die durchschnittliche Lufttemperatur in der Arktis hat sich in den letzten Jahrzehnten etwa doppelt so schnell wie die globale Durchschnittstemperatur erhöht. Außerdem steigen Luft- und Wassertemperatur in der Arktis deutlich rascher als im globalen Durchschnitt. Im arktischen Nordatlantik wurden in den letzten Jahren Rekordtemperaturen gemessen.
+
 Falls es nicht gelingen wird, die klimaschädlichen Emissionen zu reduzieren, könnte die natürliche Schneedecke bis Ende des Jahrhunderts bis zu 70% abnehmen, und auch die Skisaison könnte erst einen halben bis einen Monat später beginnen. Diese Vorhersagen beruhen auf der Kombination von Klimamodellen und Schneedeckenmodellen.
 Durch die Erderwärmung kommt es auch zu einer Zunahme von Niederschlägen. Diese kommen oft in Form von Regen statt Schnee vor, was dazu führt, dass in den Wintermonaten mehr Niederschlag fällt, der jedoch nicht immer als Schnee niedergeht.
 

@@ -37,6 +37,4 @@ languageCode = "de"
   modal = false
   frontmatter = true
 
-[params.bookshop]
-  enabled = false
 

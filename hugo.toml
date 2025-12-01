@@ -37,4 +37,9 @@ languageCode = "de"
   modal = false
   frontmatter = true
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 

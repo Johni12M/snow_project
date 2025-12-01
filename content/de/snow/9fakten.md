@@ -23,7 +23,7 @@ thumbnail: "https://imgs.search.brave.com/9LVcgg9EEVhRFfK3r9ajzi1PuIzOdbK4Nb7oqQ
 
 - An der Schneeoberfläche ist es deutlich kälter als unter der Schneedecke. Als Vergleich dient ein Iglu. Wenn in der Umgebung -30 Grad herrschen, misst die Temperatur im Iglu etwa -10 Grad.
 
-- In einigen besonders schneereichen Regionen der japanischen Alpen können jährlich bis zu 30–38 Meter Neuschnee fallen. Dieser extrem tiefe Schnee zieht viele Touristen vor allem im Winter an. In einigen besonders schneereichen Regionen der japanischen Alpen können jährlich bis zu 30–38 Meter Neuschnee fallen.
+- In einigen besonders schneereichen Regionen der japanischen Alpen können jährlich bis zu 30–38 Meter Neuschnee fallen. Dieser extrem tiefe Schnee zieht viele Touristen vor allem im Winter an.
 
 {{<sources>}}
 

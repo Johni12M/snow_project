@@ -1,0 +1,56 @@
+{{/*
+  Image Grid Shortcode für Hugo Hinode
+  
+  Verwendung:
+  {{< image-grid cols="2" gap="3" ratio="16x9" class="rounded" >}}
+    {{< image src="img/bild1.jpg" >}}
+    {{< image src="img/bild2.jpg" >}}
+    {{< image src="img/bild3.jpg" >}}
+    {{< image src="img/bild4.jpg" >}}
+  {{< /image-grid >}}
+  
+  Parameter:
+  - cols: Anzahl Spalten (1-6), Standard: 2
+  - gap: Bootstrap gap (0-5), Standard: 3
+  - ratio: Bildverhältnis für alle Bilder (optional)
+  - class: Zusätzliche CSS-Klassen für alle Bilder (optional)
+  - row-class: Zusätzliche Klassen für die Row (optional)
+*/}}
+
+{{- $cols := .Get "cols" | default "2" -}}
+{{- $gap := .Get "gap" | default "3" -}}
+{{- $ratio := .Get "ratio" | default "" -}}
+{{- $imageClass := .Get "class" | default "" -}}
+{{- $rowClass := .Get "row-class" | default "" -}}
+
+{{- $colClass := "" -}}
+{{- if eq $cols "1" -}}
+  {{- $colClass = "col-12" -}}
+{{- else if eq $cols "2" -}}
+  {{- $colClass = "col-md-6" -}}
+{{- else if eq $cols "3" -}}
+  {{- $colClass = "col-md-4" -}}
+{{- else if eq $cols "4" -}}
+  {{- $colClass = "col-md-6 col-lg-3" -}}
+{{- else if eq $cols "5" -}}
+  {{- $colClass = "col-md-4 col-lg-2" -}}
+{{- else if eq $cols "6" -}}
+  {{- $colClass = "col-md-4 col-lg-2" -}}
+{{- else -}}
+  {{- $colClass = "col-md-6" -}}
+{{- end -}}
+
+<div class="row g-{{ $gap }} {{ $rowClass }}">
+  {{- $inner := .Inner | chomp -}}
+  {{- $images := split $inner "{{< image" -}}
+  
+  {{- range $index, $imageTag := $images -}}
+    {{- if gt $index 0 -}}
+      <div class="{{ $colClass }}">
+        {{- $imageTag = printf "{{< image%s" $imageTag -}}
+        {{- $imageTag = trim $imageTag "\n\r " -}}
+        {{- $imageTag | $.Page.RenderString -}}
+      </div>
+    {{- end -}}
+  {{- end -}}
+</div>

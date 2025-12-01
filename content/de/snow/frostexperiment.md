@@ -82,3 +82,7 @@ Bei diesem Versuch ist erkennbar, dass sich nach einer Woche im Gefrierschrank a
 </div>
 
 Bei dem Fleisch, welches in Frostschutz eingelegt war, erkennt man, dass sich aus der zuerst groben Gewebestruktur, ein feines und besser erkennbares "Muster" aus Gewebefäden gebilde
+
+#### Was sagt das Experiment aus?
+
+Durch das Experiment wird gezeigt, dass Frostschutzmittel die Bildung von schädlichen Eiskristallen verhindert. Reines Wasser allein gefriert und sorgt für die Zerstörung der Gewebe.

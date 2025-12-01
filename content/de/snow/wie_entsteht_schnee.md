@@ -36,8 +36,6 @@ Natürlich gibt es auch noch andere Formen wie Nadeln und Säulen, welche bei no
 
 Es gibt einige Voraussetzungen, damit Schnee überhaupt entstehen kann. Wichtig ist, dass eine ausreichende Luftfeuchtigkeit und eine Temperatur unter 0 °C vorhanden ist. Außerdem sollten die Wolken über genügend Luftkeime verfügen, damit Schneeflocken auch jeden Winter wieder auf den Boden fallen können.
 
-**Quellen:**
-
 {{< sources >}}
 
 - <https://de.wikipedia.org/wiki/Schnee>

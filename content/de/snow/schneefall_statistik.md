@@ -27,3 +27,8 @@ thumbnail: "https://imgs.search.brave.com/MxPsmiYqPjo6wZJtgSmuASDvSCltORY30Cua1M
 \
 In der Statistik ist ein sehr starker Anstieg im gesamten Schneefall zwischen den Jahren 2017 und 2018 erkennbar. In diesen Jahren betrug die Höhe etwa 270 cm. Die Rate für die Tage mit dem meisten Schneefall liegt bei 17 in den Jahren 2012-2013 und 2017-2028. Außerdem ist ein sehr starker Abstieg bei der Schneehöhe im Tal erkennbar. Der höchste Schneefall lag bei 90cm in den Jahren 2021-2022.
 Zusammenfassend kann man sagen, dass der winterliche Schneefall von 2012-2024 stark schwankt mit ca.155cm pro Saison und einzelnen Wintern mit extrem hohen Schneemengen trotz relativ konstanter Anzahl an Schneetagen.
+
+{{<sources>}}
+
+- [Schneehöhen Villach](https://www.snowplaza.de/osterreich/villacher-berge/villach/schneehoehen/)
+  {{</sources>}}

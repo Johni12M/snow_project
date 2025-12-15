@@ -15,7 +15,7 @@ content_blocks:
     more:
       title: Mehr Themen
     padding: 0
-    limit: 6
+    limit: 100000 #10⁵ Volt
     class: border-0 card-zoom card-body-margin
     justify: start
 ---
